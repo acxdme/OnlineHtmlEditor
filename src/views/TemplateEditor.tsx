@@ -11,8 +11,11 @@ const TepmplateEditor = (props: any) => {
         <Editor
             height="90vh"
             defaultLanguage="html"
-            defaultValue="// start your html below"
+            defaultValue={props.code}
             onChange={handleEditorChange}
+            theme='vs-dark'
+            loading="Loading.."
+            width={"50%"}
         />
     )
 }

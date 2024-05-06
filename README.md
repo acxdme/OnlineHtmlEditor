@@ -17,6 +17,8 @@ Lightweight and efficient codebase built with React
 Open-source and available for customization (mention if applicable)
 Get Started:
 
+Project Preview Screenshot:
+![image](https://github.com/acxdme/OnlineHtmlEditor/assets/46848081/f15d7ed2-dd7f-41af-a9c4-731a71f8e560)
 
 
 
